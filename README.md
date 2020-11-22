@@ -69,7 +69,7 @@ Para copiar o projeto, utilize os comandos:
 
 ```bash
   # Clonar o repositório
-  ❯ git clone https://github.com/Gabriel4420/CalculadoraIMC
+  ❯ git clone https://github.com/Gabriel4420/CalculadoraIMC.git
 
   # Entrar no diretório
   ❯ cd calculadora_imc 
